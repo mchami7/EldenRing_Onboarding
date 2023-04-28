@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02f3485ea2d0aa14f8ca709fe96f0598, type: 3}
+  m_Name: BocDemiHuman
+  m_EditorClassIdentifier: 
+  ID: 1
+  Title: Boc Demi-human's Quest
+  Description: Boc is a Demi-Human with high-level communication skills. The player's
+    first encounter with Boc is a little tree. Hit the talking tree with your weapon
+    to reveal him.
+  Location: East of the Birdseye Telescope
+  Image: {fileID: 21300000, guid: 3ec81201caaa42a48a8db9d042be61b7, type: 3}
+  Rewards:
+  - "D\u2019s Bell Bearing "
+  - Inseparable Sword

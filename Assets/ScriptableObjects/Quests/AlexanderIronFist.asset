@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02f3485ea2d0aa14f8ca709fe96f0598, type: 3}
+  m_Name: AlexanderIronFist
+  m_EditorClassIdentifier: 
+  ID: 4
+  Title: Alexander The Iron Fist's Quest
+  Description: A huge, amiable Living Jar who aspires to become a legendary warrior.
+  Location: West of Saintsbridge (on a cliff, look for a giant pot sticking out of
+    the ground)
+  Image: {fileID: 21300000, guid: 7d69a71f6d54eb2449a3ab8063012c3f, type: 3}
+  Rewards:
+  - Triumphant Delight
+  - Jar Helmet
+  - Warrior Jar Shard
+  - Shard of Alexander
+  - Alexander''s Innnards

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d495ca9f83a87784f8e94cd63713a3f7, type: 3}
+  m_Name: Varre
+  m_EditorClassIdentifier: 
+  Title: White Mask Varre
+  Description: "White Mask Varr\xE9 is encountered near the start of the game, right
+    by The First Step Site of Grace, and will offer advice to the player. He can
+    be found multiple times in different locations as the story progresses."
+  Image: {fileID: 21300000, guid: c58c6514ae9ec5b4d939c4bb6f456fc7, type: 3}
+  Type: Character - Guide and Quest NPC

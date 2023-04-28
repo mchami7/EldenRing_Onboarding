@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02f3485ea2d0aa14f8ca709fe96f0598, type: 3}
+  m_Name: BloodyFingerHunterYura
+  m_EditorClassIdentifier: 
+  ID: 3
+  Title: Yura's Quest
+  Description: A fascinating warrior who chases down the Tarnished, the Bloody Fingers,
+    who hunt their own.
+  Location: At the Seaside Ruins (under the large arch by a campfire)
+  Image: {fileID: 21300000, guid: 80f395db0e55106439604b6cafab019a, type: 3}
+  Rewards:
+  - Purifying Crystal Tear
+  - Eleonora's Poleblade
+  - Ronin's Set
+  - Nagakiba
+  - 'Ash of War: Raptor of the Mists'
+  - Reduvia

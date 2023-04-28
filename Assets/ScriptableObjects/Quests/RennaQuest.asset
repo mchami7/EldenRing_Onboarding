@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02f3485ea2d0aa14f8ca709fe96f0598, type: 3}
+  m_Name: RennaQuest
+  m_EditorClassIdentifier: 
+  ID: 5
+  Title: Renna "Ranni" Quest
+  Description: A distraught woman who cautions you of Castle Morne's perils while
+    pleading with others to contact her father
+  Location: Church of Elleh  (appears after receiving Torrent)
+  Image: {fileID: 21300000, guid: 958cb0915c77d5848b7883d0d3f64184, type: 3}
+  Rewards:
+  - Dark Moon Greatsword
+  - Age of the Stars Ending
+  - Miniature Ranni
+  - Carian Inverted Statue

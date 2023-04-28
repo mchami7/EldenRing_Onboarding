@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d495ca9f83a87784f8e94cd63713a3f7, type: 3}
+  m_Name: MerchantKale
+  m_EditorClassIdentifier: 
+  Title: Merchant Kale
+  Description: "Merchant Kal\xE9 can be found in Limgrave: Church of Elleh, soon
+    after emerging from the Stranded Graveyard at the start of the game, you\u2019ll
+    see a building to the North which is the\_Church of Elleh."
+  Image: {fileID: 21300000, guid: b6d25264eea1cfb43bc2d6fef225dce4, type: 3}
+  Type: Merchant - General Goods Shop
